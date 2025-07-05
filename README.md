@@ -65,7 +65,7 @@ This project is divided into two main components:
 ## 🚀 Streamlit App (Live Demo)
 
 👉 **Try the live app here**:  
-[🔗 Cancer Prediction App on Streamlit]([https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/))
+[🔗 Cancer Prediction App on Streamlit](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/)
 
 ---
 
