@@ -27,7 +27,7 @@ This project is divided into two main components:
 ## 🔍 Dataset Used
 
 - **Name**: Breast Cancer Wisconsin (Diagnostic) Data Set  
-- **Source**: [UCI Machine Learning Repository]([https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)))  
+- **Source**: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
 - **Target Labels**:  
   - `M`: Malignant  
   - `B`: Benign  
@@ -65,17 +65,11 @@ This project is divided into two main components:
 ## 🚀 Streamlit App (Live Demo)
 
 👉 **Try the live app here**:  
-[🔗 Cancer Prediction App on Streamlit](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/)
+[🔗 Cancer Prediction App on Streamlit](https://frontend-app-cancerprediciton-vspdffhx4ztmpjxerbpvpc.streamlit.app/)
 
 ---
 
 ## 🖼 Final Output
 
 ![Final Result](result.png)
-
-> 📌 _Replace `path/to/your/final_result.png` with the actual path or URL to your image._
-
 ---
-
-## 📂 Project Structure
-
