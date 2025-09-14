@@ -1,4 +1,4 @@
-# 🧠 Frontend-Streamlit-CancerPrediction
+# 🧠 Frontend-Streamlit-CancerPredictionApp
 
 A simple and effective **breast cancer prediction app** powered by a **Logistic Regression** model and built with **Streamlit**. This project leverages the **Breast Cancer Wisconsin (Diagnostic) Dataset** to classify tumors as **benign** or **malignant** based on features derived from digitized images of fine needle aspirates (FNA) of breast masses.
 
